@@ -64,4 +64,4 @@ jobs:
         with:
           app-name: 'flaskavocado'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6B04440E01EB4BB4A69FA7CE4C6D4FC5 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_756CAF2F6DFD44AA9E05AE9A9423271F }}
